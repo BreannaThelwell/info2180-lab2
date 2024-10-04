@@ -32,7 +32,7 @@ header {
 .profile-pic {
     width: 350px;
     height: 350px;
-    border-radius: 50%;
+    border-radius: 25%;
     object-fit: cover;
     margin-bottom: 0px;
 }
