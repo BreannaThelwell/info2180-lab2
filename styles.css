@@ -54,10 +54,12 @@ article {
 h2 {
     font-size: 32px;
     color: #48BB78;
+    margin-bottom: 2px;
 }
 
 article p {
     color: #718096;
+    margin-top: 0px;
 }
 
 .post-img {
