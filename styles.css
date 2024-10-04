@@ -25,14 +25,14 @@ header {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     flex-direction: column;
 }
 
 .profile-pic {
     width: 350px;
     height: 350px;
-    border-radius: 25%;
+    border-radius: 50%;
     object-fit: cover;
     margin-bottom: 0px;
 }
