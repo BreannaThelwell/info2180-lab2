@@ -18,14 +18,14 @@ body {
 }
 
 header {
-    height: 300px;
+    grid-column: 1 / span 2;
     background-color: #63B3ED;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 20px 10px;
+    padding: 2px;
     flex-direction: column;
 }
 
